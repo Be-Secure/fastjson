@@ -1,4 +1,5 @@
 # fastjson
+[![Scorecard supply-chain security](https://github.com/Be-Secure/fastjson/actions/workflows/scorecard.yml/badge.svg)](https://github.com/Be-Secure/fastjson/actions/workflows/scorecard.yml)
 
 Fast JSON Processor
 
