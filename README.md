@@ -1,4 +1,5 @@
 # fastjson
+[![Scorecard supply-chain security](https://github.com/Be-Secure/fastjson/actions/workflows/scorecard.yml/badge.svg)](https://github.com/Be-Secure/fastjson/actions/workflows/scorecard.yml)
 
 [![Build Status](https://travis-ci.org/alibaba/fastjson.svg?branch=master)](https://travis-ci.org/alibaba/fastjson)
 [![Codecov](https://codecov.io/gh/alibaba/fastjson/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/fastjson/branch/master)
